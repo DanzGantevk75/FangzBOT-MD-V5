@@ -48,7 +48,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 🐈 *Github:* ${sgh}
 🥏 *Whatsapp* wa.me/${nomorown}
 🌐 *Discord:* Soon
-🌏 *Website:* https://kanna.websites.co.in/
+🌏 *Website:* https://github.com/DanzGantevk75
 🎶 *Tiktok:* tiktok.com/@danzanjweng
 
 `
@@ -60,7 +60,6 @@ const sections = [
 	    {title: "📱 • Nomor", rowId: ".owner nomor"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
 	{title: "🌐 • Website", rowId: ".website"},
-	{title: "🌎 • Script", rowId: ".sc"},
 	{title: "🏮 • Youtube", rowId: ".fyt"},
 	]
     },{
