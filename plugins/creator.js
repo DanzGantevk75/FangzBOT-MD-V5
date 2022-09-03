@@ -21,13 +21,13 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*💌 Nama* : Danzz
-*✉️ Nama RL* : Fardhan
+*💌 Nama* : SATT!!! 
+*✉️ Nama RL* : Satriyo
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
-*⏰ Tanggal lahir* : 25 oktober 2007
-*🎨 Umur* : 15
-*🧮 Kelas* : 9
+*⏰ Tanggal lahir* : 29 oktober 2002
+*🎨 Umur* : 19
+*🧮 Kelas* : Kuliah/16
 *🧩 Hobby* : Nonton henta*, main game, Recode script
 *💬 Sifat* : Baik, hode, softboy, tydack ramah, g*y
 *🗺️ Tinggal* : Indonesia, jawa, bogor
