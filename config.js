@@ -53,8 +53,8 @@ global.psaweria = '-' //Saweria
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '6289519526554' //Nomor Bot mu
 global.nomorown = '6288270863279' //Nomormu
-global.namebot = 'Kanna-MD' //Nama bot mu
-global.nameown = 'Kanna' //Nama mu
+global.namebot = 'DanzBot-MD' //Nama bot mu
+global.nameown = 'Danzz' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
@@ -62,7 +62,7 @@ global.owner = [
   ['088270863279'], //Owner1
   ['6288270863279'], //Owner2
   ['6288708286209'], //Owner3
-  ['6288215689772', 'Kanna ! 🥶', true] //Ini buat kamu!
+  ['6288270863279', 'Danzz ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,13 +111,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 Kanna-MD ⁩இ 」' //Wm
-global.wm2 = 'Kanna-MD' //Name Wm
-global.wm3 = '⫹⫺ Kanna 𝗕𝗢𝗧'
+global.wm = '                「 DanzBot-MD ⁩இ 」' //Wm
+global.wm2 = 'Danzz' //Name Wm
+global.wm3 = '⫹⫺ Danzz 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '𝗬𝗧: DANZBOT' //Titlenya
-global.author = '                ✧ Kanna BOT⁩ ✧' //Wm author
+global.author = '                ✧ Danzz BOT⁩ ✧' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
@@ -171,7 +171,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = '.'
-global.stickauth = `© Kanna BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickauth = `© Danzz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
