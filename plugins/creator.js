@@ -21,8 +21,8 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*💌 Nama* : SATT!!! 
-*✉️ Nama RL* : Satriyo
+*💌 Nama* : Fardhan
+*✉️ Nama RL* : Danzz
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
 *⏰ Tanggal lahir* : 29 oktober 2002
@@ -30,7 +30,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 *🧮 Kelas* : Kuliah/16
 *🧩 Hobby* : Nonton henta*, main game, Recode script
 *💬 Sifat* : Baik, hode, softboy, tydack ramah, g*y
-*🗺️ Tinggal* : Indonesia, jawa, bogor
+*🗺️ Tinggal* : Indonesia, Riau, Pekanbaru
 *❤️ Suka* : warnah pink & hitam, trap, waifu wangy, kucing
 *💔 Benci* : anak alay, autis, anak epep, sok asik
 
