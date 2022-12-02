@@ -36,33 +36,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/satriyosawalllll?igshid=YmMyMTA2M2Y=' //Instagram mu
+global.sig = 'https://instagram.com/danzgamtenk' //Instagram mu
 global.sgh = 'https://github.com/DanzGantevk75' //Github mu
-global.sgc = 'https://chat.whatsapp.com/K0ceHcBtiDLEAPMfylr6rp' //Group WhatsApp mu
+global.sgc = 'https://chat.whatsapp.com/GFJaGMLB9s66DhAZTxtFff' //Group WhatsApp mu
 global.sdc = 'https://youtube.com/channel/UCAMpDDfVjxdxKS8i8MLrSEQ' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '085762224918' //Dana
+global.pdana = '088270863279' //Dana
 global.povo = '-' //Ovo
-global.pgopay = '085762224918' //Gopay
-global.ppulsa = '0895622816517' //Pulsa 
-global.ppulsa2 = '085762224918' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pgopay = '088270863279' //Gopay
+global.ppulsa = '088270863279' //Pulsa 
+global.ppulsa2 = '089519526587' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = '-' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285762224918' //Nomor Bot mu
-global.nomorown = '62895622816517' //Nomormu
-global.namebot = 'BOTSattZzz' //Nama bot mu
-global.nameown = 'Satriyo' //Nama mu
+global.nomorbot = '6289519526554' //Nomor Bot mu
+global.nomorown = '6288270863279' //Nomormu
+global.namebot = 'DanzBot-MD' //Nama bot mu
+global.nameown = 'Danzz' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['62895622816517'], //Owner1
-  ['62895622816517'], //Owner2
-  ['62895622816517'], //Owner3
-  ['62895622816517', 'Satriyo ! 🥶', true] //Ini buat kamu!
+  ['6288270863279'], //Owner1
+  ['6288270863279'], //Owner2
+  ['6288270863279'], //Owner3
+  ['6288270863279', 'Danz Own', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,13 +111,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 BOTSattZzz ⁩இ 」' //Wm
-global.wm2 = 'BOTSattZzz' //Name Wm
-global.wm3 = '⫹⫺ SattZzz 𝗕𝗢𝗧'
+global.wm = '                「 DanzBot-MD ⁩இ 」' //Wm
+global.wm2 = 'DanzBot-MD' //Name Wm
+global.wm3 = '⫹⫺ Danzz 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: BOTSattZzz' //Titlenya
-global.author = '                ✧ SattZzz BOT⁩ ✧' //Wm author
+global.titlebot = '𝗬𝗧: DanzBot' //Titlenya
+global.author = '                ✧ Danzz ✧' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
